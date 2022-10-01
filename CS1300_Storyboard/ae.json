@@ -1,0 +1,70 @@
+{
+"name": "CS1300 Storyboard",
+"aspect_ratio": 0,
+"frames": [
+{
+"frame_number": "1",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0001.jpg"
+},
+{
+"frame_number": "2",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0002.jpg"
+},
+{
+"frame_number": "3",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0003.jpg"
+},
+{
+"frame_number": "4",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0004.jpg"
+},
+{
+"frame_number": "5",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 2000,
+"file_name": "frame-0005.jpg"
+},
+{
+"frame_number": "6",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 1000,
+"file_name": "frame-0006.jpg"
+},
+{
+"frame_number": "7",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 500,
+"file_name": "frame-0007.jpg"
+},
+{
+"frame_number": "8",
+"label": null,
+"voiceover": null,
+"direction": null,
+"duration": 500,
+"file_name": "frame-0008.jpg"
+}
+]
+}
